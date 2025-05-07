@@ -105,8 +105,8 @@ Interestingly, 3 out of the top 5 stores by total sales and profit are located i
 
  Nearly 60% of all Maven Toys stores are located in Downtown. On average, Airport stores generate the highest daily revenue per store at $708—over 30% more than stores in other areas. While Airport shows strong potential for expansion, it may also require significant investment, which warrants further evaluation.
 Key Insights:
-- Downtown dominates in store count with 29 stores but contributes only 11.47% of total revenue and has the lowest profit margin (27%). High operating costs or lower pricing may be factors.
-- Airport leads in profitability, generating 56.9% of total revenue with the highest profit margin (29%), despite fewer stores.
+- Downtown dominates in store count with 29 stores but contributes generating 56.9% and has the lowest profit margin (27%). High operating costs or lower pricing may be factors.
+- Airport leads in profitability, lowest of total revenue but the highest profit margin (29%), despite fewer stores.
 - Commercial and Residential show stable performance with 28% margins and contribute 22.7% and 8.93% of revenue respectively.
 Opportunities:
 - Airport should be explored for expansion, though investment needs must be considered.
