@@ -149,13 +149,20 @@ Meanwhile, Toys is the top profit-generating category at Downtown ($630,029) and
 Although Electronics is the second most profitable category, its monthly sales have steadily declined, dropping from $143,088 in January 2021 to $72,547 in September 2022. This downward trend contrasts significantly with the Toys category, which has remained relatively stable. Additionally, Toys experienced growth in both summer 2022 and winter 2024, likely due to summer vacations and year-end holiday seasons. While demand for Electronics has declined, demand for Toys has remained unchanged.
 
 So, when one of the highest-revenue product categories has been experiencing declining sales for the past 20 months, the question arises: How is the company still on track to surpass the total sales of 2022?
+
 ![image](https://github.com/user-attachments/assets/c99235cc-a70f-45b6-9211-67cf267fb3a6)
+
 ![image](https://github.com/user-attachments/assets/d528f9c9-bae8-4042-91be-7fcf81bba113)
 
-→ With one of the primary profit-generating product categories experiencing declining sales for the past twenty months, it raises the question of how the company is still on track to surpass total sales for 2022. The answer lies in the significant growth of the Arts and Crafts category.
+→ With one of the primary profit-generating product categories experiencing declining sales for the past twenty months, it raises the question of how the company is still on track to surpass total sales for 2022. The answer lies in the significant growth of the Arts and Crafts category. Monthly sales have shown an upward trend, increasing from $35,097 in January 2022 to $187,299 in September 2023, with a peak of $230,299 in April 2023. Leveraging this rising demand could further drive sales growth for Maven Toys.
 
-Monthly sales have shown an upward trend, increasing from $35,097 in January 2022 to $187,299 in September 2023, with a peak of $230,299 in April 2023. Leveraging this rising demand could further drive sales growth for Maven Toys.
+5. Do best-selling products follow seasonal trends for stock planning?
 
+- Ensure adequate inventory for the Toys category, especially for seasonally popular and holiday-specific models, to prevent stock shortages during peak periods and fully capitalize on the high demand from children and families.
+
+- Prioritize the expansion of the Arts and Crafts category, the key growth driver; focus on broadening the product lineup, improving in-store presentation, and implementing marketing strategies targeting creative-minded customers.
+
+- Reevaluate the Electronics category strategy, analyze the reasons behind declining sales, and test solutions such as price adjustments, new product launches, or targeting untapped niche segments.
 
 
 
