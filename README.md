@@ -49,10 +49,15 @@ IV. Analysis:
 Dashboard 1: Performance Analysis
 
 - Key Metrics:
+
 Total Sales: $14 Million
+
 Total Profit: $4 Million
+
 Profit Margin: 28%
+
 Total Units Sold: 1.1 Million
+
 - Profitability is strong at a 28% margin, suggesting efficient operations or premium pricing.
 - Sales are highly concentrated in the Center region and downtown store locations—indicating a geographic and demographic skew. There may be an overdependence on a few strong markets.
 - Toys dominate the product mix, both in share and growth, creating potential risk if demand shifts; diversification should be considered. However considered that the Data Date only take from 1/2022 ti 9/2023 so the comparison has lesser value.
@@ -114,15 +119,17 @@ Opportunities:
 The answer is yes. There is a strong positive correlation between the number of stores in a city and the revenue generated in that city. This means that as the number of stores in a city increases, the amount of revenue generated also rises. However, it is important to note that there may be a hidden variable influencing the sales volume at stores in each city.
 
 Dashboard 3: Inventory Analysis
-3. Which products are actually generating profit? Is this consistent across all store locations?
-![image](https://github.com/user-attachments/assets/69565e2a-db76-4953-aee6-5eaea0b065bf)
 
+3. Which products are actually generating profit? Is this consistent across all store locations?
+
+![image](https://github.com/user-attachments/assets/69565e2a-db76-4953-aee6-5eaea0b065bf)
 
 Across store regions, Toys (Lego Bricks and Action Figure) and Electronics (Colorbuds) continue to be the highest-profit categories.
 Electronics generates the most profit at Airport ($108,197) and Commercial ($287,574) store locations.
 Meanwhile, Toys is the top profit-generating category at Downtown ($630,029) and Residential ($136,214).
 
 4. Are there seasonal factors affecting product sales? When is the peak selling period?
+
 ![image](https://github.com/user-attachments/assets/a0604088-fcc4-4d18-b3c4-f715f4f90e18)
 
 - The data shows that sales steadily increased from January ($542,554) to April 2022 ($681,072). Afterward, the sales trend declined until August ($489,422). Since this period coincides with summer, people tend to engage more in outdoor activities, which could explain the drop in sales.
