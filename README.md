@@ -59,7 +59,7 @@ Total Units Sold: 1.1 Million
 
 Dashboard 2: Store Analysis
 
-1. Với các Store Location, kiểm tra Sales và đối chiếu với Inventory. Có nơi nào thiếu hàng không vì không thể bán nếu không có hàng?
+1. For store locations, analyze sales and compare them with inventory data. Are there any stock shortages, as sales cannot occur without available products?
 
 This report aims to assess the financial consequences of product unavailability, with a particular focus on revenue loss due to stockouts at various locations. Understanding this impact is crucial for optimizing inventory management and maximizing sales potential. To achieve this goal, the following key metrics will be analyzed for each location:
 
@@ -94,6 +94,7 @@ Interestingly, 3 out of the top 5 stores by total sales and profit are located i
 - A deep-dive analysis into the inventory management systems and forecasting methods in these two regions is recommended to identify root causes and develop tailored solutions.
 
 2. Store_Location can affect customer traffic. Are there any locations that are less favorable compared to others?
+
 ![image](https://github.com/user-attachments/assets/6a93420e-3fb7-4340-b5bd-2238b5c58f56)
 
  Nearly 60% of all Maven Toys stores are located in Downtown. On average, Airport stores generate the highest daily revenue per store at $708—over 30% more than stores in other areas. While Airport shows strong potential for expansion, it may also require significant investment, which warrants further evaluation.
