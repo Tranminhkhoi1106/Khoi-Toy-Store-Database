@@ -1,9 +1,13 @@
 # Maven's Toy Store Database PowerBI
+
 National Economic University FDA Project
+
 Mavin ToyStore Dashboard
+
 Dashboard link: https://app.powerbi.com/groups/me/reports/e322913e-8b07-4437-8085-26af56a870b7/329c6a152031d4eead26?experience=power-bi
 
 I. Business Case: 
+
 One beautiful morning, the CEO sends you— a Data Analyst— a message: "Some stores are not generating the expected profit. Find out why— using data!"
 This project aims to analyze sales data to identify the reasons why certain stores are underperforming in terms of profitability. Additionally, it provides insights to help leadership and business teams determine which stores and products to focus on, optimizing sales and marketing strategies for the upcoming year.
 
