@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3759adad-2e78-4eec-b0de-90157cc07e18)# Khoi-Toy-Store-Database
+# Khoi-Toy-Store-Database
 National Economic University FDA Project
 Mavin ToyStore Dashboard
 Dashboard link: https://app.powerbi.com/groups/me/reports/e322913e-8b07-4437-8085-26af56a870b7/329c6a152031d4eead26?experience=power-bi
