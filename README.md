@@ -29,9 +29,12 @@ Steps:
 ![image](https://github.com/user-attachments/assets/394e9a32-bc67-4fc6-b0bb-fba4521add5e)
 
 #3: Data Analysis: Aggregate data and perform calculations to identify trends and relationships.
+
 #4: Organization: Arrange raw fields, calculated columns, and key metrics into separate folders for easier navigation.
 #5Report Structure: Divide the report into three pages: Summary, Store and Stock Analysis, and Product Analysis.
+
 #6: Key Metrics: Include Total Sales, Profit, and Profit Margin across all pages, along with Total Units Sold for product performance evaluation. Additional metrics are also created to compare store performance.
+
 #7: Data Visualization: Implement interactive visuals and parameterized metrics to enable stakeholders to explore data in-depth and interact dynamically with the multidimensional report.
 
 Analysis:
