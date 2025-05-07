@@ -15,6 +15,7 @@ II. Data:
 - Inventory Table: Contains inventory data for each product at various stores, including store codes, product codes, stock quantity, shortage levels, total inventory value, and out-of-stock status. This helps track goods and optimize restocking.
 
 III. Steps:
+
 #1: Data Cleaning:
 - Download and Import: Retrieve CSV files and import them into Power BI Desktop.
 - Data Transformation: Use Power Query to refine data before loading—check and adjust data types, rename columns within each table, remove unnecessary columns, eliminate duplicate records and blank rows, etc.
