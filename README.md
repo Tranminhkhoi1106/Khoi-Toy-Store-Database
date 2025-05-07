@@ -4,7 +4,17 @@ National Economic University FDA Project
 
 Mavin ToyStore Dashboard
 
-Dashboard link: https://app.powerbi.com/groups/me/reports/e322913e-8b07-4437-8085-26af56a870b7/329c6a152031d4eead26?experience=power-bi
+Performance Dashboard: 
+
+![image](https://github.com/user-attachments/assets/9682abe3-df93-4bfe-be0c-8e7a8e4d779e)
+
+Store Analysis Dasboard: 
+
+![image](https://github.com/user-attachments/assets/c67a77ed-40e1-4c49-b2fd-0bad78eafcb1)
+
+Inventory Dashboard: 
+
+![image](https://github.com/user-attachments/assets/23802d1a-f2e7-4497-b12c-18eb81d3cd08)
 
 I. Business Case: 
 
@@ -41,11 +51,6 @@ III. Steps:
 #6: Key Metrics: Include Total Sales, Profit, and Profit Margin across all pages, along with Total Units Sold for product performance evaluation. Additional metrics are also created to compare store performance.
 
 #7: Data Visualization: Implement interactive visuals and parameterized metrics to enable stakeholders to explore data in-depth and interact dynamically with the multidimensional report.
-
-Performance Dashboard: ![image](https://github.com/user-attachments/assets/9682abe3-df93-4bfe-be0c-8e7a8e4d779e)
-Store Analysis Dasboard: ![image](https://github.com/user-attachments/assets/c67a77ed-40e1-4c49-b2fd-0bad78eafcb1)
-Inventory Dashboard: ![image](https://github.com/user-attachments/assets/23802d1a-f2e7-4497-b12c-18eb81d3cd08)
-
 
 
 IV. Analysis:
